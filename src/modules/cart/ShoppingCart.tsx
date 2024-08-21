@@ -15,7 +15,7 @@ const ShoppingCard: React.FC = () => {
     <>
       <section>
         <h2 className="text-xl font-semibold">
-          Your cart: {items.length} articulos
+          Tu carrito: {items.length} articulos
         </h2>
         <div className="overflow-x-auto">
           <table className="table">
